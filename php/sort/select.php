@@ -1,4 +1,10 @@
 <?php
+/**
+ * 选择排序
+ * @author mallor <mallor@163.com>
+ * @param array $data
+ * @return void
+ */
 function selSort(array &$data)
 {
 
